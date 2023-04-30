@@ -11,4 +11,8 @@ public class B {
     public void ab() {
         System.out.println();
     }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
 }
