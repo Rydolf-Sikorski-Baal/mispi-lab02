@@ -7,4 +7,8 @@ public class E extends null {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public int cc() {
+        return 39;
+    }
 }

@@ -27,4 +27,8 @@ public class B extends null {
     public int cc() {
         return 42;
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }
