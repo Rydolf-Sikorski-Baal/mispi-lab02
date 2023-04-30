@@ -23,4 +23,8 @@ public class B {
     public double ad() {
         return 9.11;
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }
