@@ -23,4 +23,8 @@ public class B extends null {
     public double ad() {
         return 9.11;
     }
+
+    public int cc() {
+        return 42;
+    }
 }
