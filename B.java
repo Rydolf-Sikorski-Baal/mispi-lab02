@@ -1,4 +1,4 @@
-public class B {
+public class B extends null {
 
     private int k = 42;
 
@@ -24,15 +24,11 @@ public class B {
         return 9.11;
     }
 
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
+    public int cc() {
+        return 42;
     }
 
-    public void aa() {
-        System.out.println("Hello world!");
-    }
-
-    public float ff() {
-        return 0;
+    public void bb() {
+        System.out.println(getClass().getName());
     }
 }
