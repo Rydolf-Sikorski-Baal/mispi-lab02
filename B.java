@@ -1,4 +1,4 @@
-public class B {
+public class B extends null {
 
     private int k = 42;
 
@@ -10,5 +10,17 @@ public class B {
 
     public void ab() {
         System.out.println();
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public double ad() {
+        return 9.11;
     }
 }

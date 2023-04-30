@@ -1,4 +1,4 @@
-public interface C {
+public class C extends null {
 
     java.util.List<String> jj();
 
